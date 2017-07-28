@@ -25,7 +25,7 @@ The code will look like the following:
  Theano installation requires conda or pip, and the install process is the same under Windows, Mac OS and Linux. The code has been tested under Mac OS and Linux Ubuntu. There might be some specificities for Windows, such as modifying the paths, that the Windows developer will solve quite easily.
 
 ### Note:
-For chapter 01, 09, 10 and 12 use the code from the chapter. There are no code files for chapter 07 and 08.
+For chapter 01, 07, 08, 09, 10 and 12 use the code from the chapter. There are no code files for chapter 07 and 08.
 
 ## Related Products:
 * [Deep Learning: Practical Neural Networks with Java](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-practical-neural-networks-java?utm_source=github&utm_medium=repository&utm_content=9781788470315)
