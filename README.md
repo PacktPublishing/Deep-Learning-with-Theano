@@ -28,8 +28,6 @@ The code will look like the following:
 
 Chapter 1: Theano basics
 
-For chapter 01, use the code from the chapter since the code is only Python shell commands.
-
 [Chapter 2: classifying handwritten digits with a feedforward network](Chapter02/)
 
 [Chapter 3: encoding words into vectors](Chapter03/)
@@ -46,8 +44,6 @@ Chapter 8: translating and explaining through encoding decoding networks
 
 Chapter 9: selecting relevant inputs or memories with attention mechanism
 
-For chapters 07, 08, 09, code will be published soon. Use the code from the chapter in the mean time.
-
 [Chapter 10: predicting time sequences with advanced recurrent neural networks](Chapter10/)
 
 [Chapter 11: learning from the environment with reinforcement](Chapter11/)
@@ -55,6 +51,10 @@ For chapters 07, 08, 09, code will be published soon. Use the code from the chap
 [Chapter 12: learning features with unsupervised generative models](Chapter12/)
 
 [Chapter 13: extending Deep Learning with Theano](codes/Chapter13/)
+
+For chapter 01, use the code from the chapter since the code is only Python shell commands.
+
+For chapters 07, 08, 09, code will be published soon. Use the code from the chapter in the mean time.
 
 ## Related Products:
 * [Deep Learning: Practical Neural Networks with Java](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-practical-neural-networks-java?utm_source=github&utm_medium=repository&utm_content=9781788470315)
