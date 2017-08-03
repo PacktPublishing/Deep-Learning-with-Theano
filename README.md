@@ -27,6 +27,7 @@ The code will look like the following:
 ## Outline:
 
 Chapter 1: Theano basics
+
 For chapter 01, use the code from the chapter since the code is only Python shell commands.
 
 [Chapter 2: classifying handwritten digits with a feedforward network](Chapter02/)
