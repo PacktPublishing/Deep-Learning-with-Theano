@@ -24,33 +24,7 @@ The code will look like the following:
 ## Software requirements:
  Theano installation requires conda or pip, and the install process is the same under Windows, Mac OS and Linux. The code has been tested under Mac OS and Linux Ubuntu. There might be some specificities for Windows, such as modifying the paths, that the Windows developer will solve quite easily.
 
-## Outline:
-
-Chapter 1: Theano basics
-
-[Chapter 2: classifying handwritten digits with a feedforward network](Chapter02/)
-
-[Chapter 3: encoding words into vectors](Chapter03/)
-
-[Chapter 4: generating text with a recurrent neural network](Chapter04/)
-
-[Chapter 5: analyzing sentiments with a bidirectional LSTM](Chapter05/)
-
-[Chapter 6: locating with spatial transformer networks](Chapter06/)
-
-Chapter 7: classifying images with residual networks
-
-Chapter 8: translating and explaining through encoding decoding networks
-
-Chapter 9: selecting relevant inputs or memories with attention mechanism
-
-[Chapter 10: predicting time sequences with advanced recurrent neural networks](Chapter10/)
-
-[Chapter 11: learning from the environment with reinforcement](Chapter11/)
-
-[Chapter 12: learning features with unsupervised generative models](Chapter12/)
-
-[Chapter 13: extending Deep Learning with Theano](codes/Chapter13/)
+### Note:
 
 For chapter 01, use the code from the chapter since the code is only Python shell commands.
 
